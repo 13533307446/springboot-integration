@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zhuozhi.dbrouter.DataSourceConfiguration,\
+com.zhuozhi.dbrouter.TransactionManagerConfiguration,\
+com.zhuozhi.dbrouter.DSConfiguration
